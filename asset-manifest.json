@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-rtk.git/static/css/main.e6c13ad2.css",
+    "main.js": "/practice-rtk.git/static/js/main.ced5b39a.js",
+    "index.html": "/practice-rtk.git/index.html",
+    "main.e6c13ad2.css.map": "/practice-rtk.git/static/css/main.e6c13ad2.css.map",
+    "main.ced5b39a.js.map": "/practice-rtk.git/static/js/main.ced5b39a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ced5b39a.js"
+  ]
+}
